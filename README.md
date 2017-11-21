@@ -1,5 +1,5 @@
 # hello-word
-06/10/2017 atualizado
+06/10/2017 
 Universidade Federal de Minas Gerais
 Prof. Renato Rocha Souza
 Marcos de Souza  
